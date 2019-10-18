@@ -1,2 +1,7 @@
-language:
-  - cpp
+language: cpp
+
+os:
+  linux
+
+compiler:
+  - gcc
