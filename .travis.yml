@@ -4,4 +4,4 @@ os:
   - linux
 
 compiler:
-  - Clang
+  - clang
