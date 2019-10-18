@@ -7,4 +7,4 @@ compiler:
   - clang
 
 script:
-  cd build
+  - cd build
